@@ -1,0 +1,15 @@
+.searchPlayandPause {
+  right:80%;
+  font-size: 20px;
+  text-align: right;
+}
+
+.marquee {
+  position: relative;
+  animation: marquee 5s linear infinite;
+}
+
+@keyframes marquee {
+  0% { left: 0; }
+  100% { left: -100%; }
+}

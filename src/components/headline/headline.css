@@ -1,0 +1,94 @@
+.scraped-img {
+  /* float: right;
+  height: 70%; */
+  /* width: auto; */
+}
+
+.card {
+  padding: 10px 14px;
+}
+
+.card:hover {
+  cursor: pointer;
+}
+
+.media {
+  background: #f8f9fa !important;
+  
+}
+
+.media-left {
+  background: #f8f9fa !important;
+  max-width: 30%;
+}
+
+.media-left img {
+  width: 90%;
+}
+
+.media-body {
+  background: #f8f9fa !important;
+}
+
+h4.media-heading {
+  font-size: 1.08rem;
+  font-family: 'Noto Sans KR', serif;
+}
+
+.publisher-name {
+  color: #505050;
+  font-size: 0.9rem;
+}
+
+.clock {
+  color: #a5a5a5;
+  margin: 0 3px 0 5px;
+  font-size: 0.9rem;
+}
+
+.article-createdAt {
+  color: #aaa;
+  font-size: 0.9rem;
+  margin-left: 2px;
+}
+
+.card-title {
+  font-size: 1em;
+}
+
+.additional-article-info {
+  background: #f8f9fa !important;
+}
+
+.carousel {
+	height: calc(100%);
+}
+
+.carousel div {
+  background: white;
+  text-align: left;
+  padding-top: 5px;
+}
+
+.menu-item {
+  border: 1px solid white;
+  background: #3fb0ac;
+  color: white;
+  font-size: 20px;
+  position: relative;
+  text-align: center;
+  height: 50px;
+  line-height: 50px;
+}
+
+.menu-item:last-child {
+  border: 1px solid white;
+}
+
+a:not([href]):not([tabindex]) { 
+  color: white;
+}
+
+.react-swipe-container {
+  height: 50%;
+}

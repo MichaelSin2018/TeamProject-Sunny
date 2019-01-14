@@ -1,0 +1,30 @@
+.navbar {
+  background-color: #fae596
+}
+
+.app-title {
+  color: white;
+  letter-spacing: 3px;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.logo {
+  width: 25%;
+  float: left;
+}
+
+#login-link {
+  float: right;
+}
+
+#user-kakao-pic {
+  float: right;
+  display: block;
+}
+
+#user-kakao-nickname {
+  text-align: right;
+  font-weight: bold;
+  color: white;
+}
